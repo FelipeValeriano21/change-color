@@ -1,0 +1,44 @@
+header,body,footer{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    font-family: cursive;
+}
+
+input{
+
+height: 27px;
+width: 200px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+background-color: white;
+}
+
+button{
+
+    height: 31px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkgreen;
+    color: white;
+    
+}
+
+button:hover{
+
+    background-color: red;
+
+}
+
+*{
+
+    background-color: rgb(67, 67, 67);
+
+}
+
+#tudo{
+
+    background-color:red ;
+}
